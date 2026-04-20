@@ -1,0 +1,21 @@
+{
+  "name": "Manifest a Loving Girlfriend",
+  "short_name": "Manifest Love",
+  "description": "A focused 30-day manifestation ritual with a sacred setup, daily spoken repetition, and a visible contract path.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#26111f",
+  "theme_color": "#26111f",
+  "icons": [
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "./apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
