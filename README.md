@@ -1,4 +1,4 @@
-# Manifest Love
+# Manifest a Loving Girlfriend
 
 A static web app for a focused 30-day manifestation ritual:
 
